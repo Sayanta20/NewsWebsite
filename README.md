@@ -3,7 +3,7 @@
 A responsive web-based **News Application** built using **HTML, CSS, and JavaScript**, that fetches and displays the latest news articles dynamically from the **NewsAPI**.  
 It allows users to explore trending topics like IPL, Finance, and Politics, or search for their favorite news category using keywords.
 
-🌐 **Live Demo:** [sayanta20.github.io/news-app/](https://sayanta20.github.io/news-app/) *(update this link if different)*
+🌐 **Live Demo:** [sayanta20.github.io/NewsWebsite/](https://sayanta20.github.io/NewsWebsite/) 
 
 ---
 
